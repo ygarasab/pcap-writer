@@ -1,0 +1,29 @@
+{
+  "name": "pcap-writer",
+  "version": "1.0.0",
+  "description": "Simple pcap writer for node",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ygarasab/pcap-writer.git"
+  },
+  "keywords": [
+    "pcap",
+    "pcap-writer"
+  ],
+  "author": "Ygarasab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ygarasab/pcap-writer/issues"
+  },
+  "homepage": "https://github.com/Ygarasab/pcap-writer#readme",
+  "dependencies": {
+    "bufferpack": "0.0.6"
+  }
+}
