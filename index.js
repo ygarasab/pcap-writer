@@ -1,1 +1,1 @@
-const pcapw = require("./lib/pcap-writer")
+module.exports = require("./lib/pcap-writer")
